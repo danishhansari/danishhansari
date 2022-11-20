@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dan72mail@gmail.com**
 
-- ⚡ Fun fact **I love to watch to Vlog**
+- ⚡ Fun fact **I hate coding lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
