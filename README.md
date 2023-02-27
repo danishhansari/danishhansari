@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about **HTML, CSS/SCSS, JavaScript, React, Linux**
 
 - 📫 How to reach me **dan72mail@gmail.com**
 
