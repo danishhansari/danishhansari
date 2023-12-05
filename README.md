@@ -1,6 +1,6 @@
 **Hey, I am Danish ⚡️**
 
-![gh-profile-banner](/media/gh-profile-banner.png)
+![gh-profile-banner](./media/gh-profile-banner.png)
 
 - ♂ He/Him/His 📍 Living in Mumbai, India
 - I am learning frontend software engineer. Mostly use React, TailwindCSS, and Planing to work on Typescript.
