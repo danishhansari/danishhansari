@@ -3,7 +3,7 @@
 ![gh-profile-banner](./media/gh-profile-banner.png)
 
 - ♂ He/Him/His 📍 Living in Mumbai, India
-- I am learning Full stack. Mostly work on ["NextJS","MERN", "PERN"]
+- I am learning Full stack. Mostly work on ["NextJS", "MERN", "PERN"]
 - Learning Typescript 
 - Wanna catch up? Schedule a meet with me at [cal.com/danishh](https://cal.com/danishh)
 - General mails at dan71ish@gmail.com
