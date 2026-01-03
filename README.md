@@ -3,7 +3,7 @@
 ![gh-profile-banner](./media/gh-profile-banner.png)
 
 - ♂ He/Him/His 📍 Living in Mumbai, India
-- Full stack Dev. Mostly work on ["NextJS", "MERN", "PERN"]
+- Full stack Dev. Mostly work on ["NextJS", "Java", "Spring Boot"]
 - Wanna catch up? Schedule a meet with me at [cal.com/danishh](https://cal.com/danishh)
 - General mails at dan71ish@gmail.com
 
